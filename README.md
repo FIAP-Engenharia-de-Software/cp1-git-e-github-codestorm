@@ -18,3 +18,5 @@ Nossa plataforma oferece usuários podem criar perfis, compartilhar atualizaçõ
 - Bianca Veloso.
 
 ## Site no GitHub Pages
+
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-codestorm/
