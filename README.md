@@ -1,3 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/B6hgMXcG)
-# Case-Social-Connect
-Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
+# Documentação
+
+## O que é SocialConnect
+A Social Connect é uma empresa inovadora que te conecta com as pessoas certas.
+Nossa plataforma oferece usuários podem criar perfis, compartilhar atualizações, seguir outros usuários e interagir por meio de mensagens privadas.
+
+## Tecnologias utilizadas
+- HTML;
+- CSS;
+- GIT e GITHUB.
+
+## Integrantes do grupo
+- Vicente de Souza (RM56920)
+- Jair Ierich (RM569524)
+- Maria Gabriela Dantas; (RM569047@)
+- Felipe Cardoso (RM569031)
+- Gabriella Lisbôa (RM573504)
+- Bianca Veloso (RM572036)
+
+## Site no GitHub Pages
+
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-codestorm/
