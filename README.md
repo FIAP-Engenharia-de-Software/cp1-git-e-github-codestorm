@@ -10,12 +10,12 @@ Nossa plataforma oferece usuários podem criar perfis, compartilhar atualizaçõ
 - GIT e GITHUB.
 
 ## Integrantes do grupo
-- Vicente de Souza;
-- Jair Ierich;
-- Maria Gabriela Dantas;
-- Felipe Cardoso;
-- Gabriella Lisbôa;
-- Bianca Veloso.
+- Vicente de Souza (RM56920)
+- Jair Ierich (RM569524)
+- Maria Gabriela Dantas; (RM569047@)
+- Felipe Cardoso (RM569031)
+- Gabriella Lisbôa (RM573504)
+- Bianca Veloso (RM572036)
 
 ## Site no GitHub Pages
 
